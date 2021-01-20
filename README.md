@@ -1,5 +1,5 @@
 # To-Do App
-This app will allow you to create a bullet point list. Simply type in the white box, add you text, and push enter. You will see it appear. Repeat this process to add more items to your list.
+This app will allow you to create a bullet point list. Simply type in the white box, add your text, and push enter. You will see it appear. Repeat this process to add more items to your list.
 
 Project built with React.
 
